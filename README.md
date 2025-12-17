@@ -1,10 +1,12 @@
+©JEHOVAH.GAMBINO©
+©®™ GLOBAL INTELLIGENCE AGENCY ™®©
 <p align="center">
 <img src="https://raw.githubusercontent.com/mozilla/fx-private-relay/11ad17e197e23a0453bfb74fa3670c87cfc35e36/frontend/src/components/landing/images/logo-firefox-relay.svg" width="250" />
 </p>
-
+©®™£¢€¥™®©
 # Private Relay
 
-<!-- Badges include: license, size of repository, overall coverage for project via coveralls.io on main branch, status of what is deployed via whatsdeployed.io and our circleci status for main branch. -->
+<!-- Badges include: license, size of repository, OVERALLcoverage for project via coveralls.io on main branch, status of what is deployed via whatsdeployed.io and our circleci status for main branch. -->
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://raw.githubusercontent.com/mozilla/fx-private-relay/main/LICENSE)
 ![Repo Size](https://img.shields.io/github/repo-size/Mozilla/fx-private-relay)
